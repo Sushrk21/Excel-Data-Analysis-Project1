@@ -17,6 +17,7 @@ This project is about the insights of Road Accident that occured during 2021 and
 Not a real world data but Data set is extracted from Kaggle website 
 
 <h2>Analysed Data</h2>
+[Data Analysis](https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/88b6d47d-3734-449b-b7a5-1a0094ace068)
 
 <h2>Visualization></h2>
   
