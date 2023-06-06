@@ -17,9 +17,44 @@ This project is about the insights of Road Accident that occured during 2021 and
 Not a real world data but Data set is extracted from Kaggle website 
 
 <h2>Analysed Data</h2>
-[Data Analysis](https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/88b6d47d-3734-449b-b7a5-1a0094ace068)
 
-<h2>Visualization></h2>
-  
- <h2>Final Interactive Dashboard></h2>
+
+
+
+![Data Analysis](https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/88b6d47d-3734-449b-b7a5-1a0094ace068)
+
+
+
+
+
+
+
+<h2>Visualization</h2>
+
+
+
+
+![Data Visualization](https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/fb398a17-f64c-4211-b10b-92607dc071bf)
+
+
+
+
+
+
+
+
+![Data Visualization (2)](https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/ce1a4f15-a732-4d01-b2d3-c46cab5983c7)
+
+
+
+
+
+
+
+
+<h2>Final Interactive Dashboard></h2>
+
+
+
+https://github.com/Sushrk21/Excel-Data-Analysis-Project1/assets/91313477/08999593-3de7-40b1-81d6-bdfd1f07041e
 
